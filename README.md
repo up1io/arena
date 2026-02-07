@@ -54,4 +54,14 @@ hello world==112372==
 
 ## Arena benefits 
 
-
+```
+arena hello world==31576==
+==31576== HEAP SUMMARY:
+==31576==     in use at exit: 0 bytes in 0 blocks
+==31576==   total heap usage: 2 allocs, 2 frees, 5,120 bytes allocated
+==31576==
+==31576== All heap blocks were freed -- no leaks are possible
+==31576==
+==31576== For lists of detected and suppressed errors, rerun with: -s
+==31576== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+```
