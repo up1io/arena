@@ -7,6 +7,8 @@ typedef struct arena_t {
   int capacity;
 } arena_t;
 
+void *arena_alloc(arena_t *arena, size_t size_bytes);
+
 typedef struct {
     char *description;
 } data_t;

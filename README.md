@@ -1,4 +1,4 @@
-# Arena
+# Arena (WIP)
 
 This repository explores the concept of arenas. The implementation is done in C.
 
